@@ -4,12 +4,6 @@
   
   1 x wires
   
-  1 x ultrasonic https://www.sparkfun.com/products/15569
-  
-  1 x IR receiver: https://www.pololu.com/product/2471 
-
-  1 x IR remote: https://www.pololu.com/product/2777
-  
   1 x Blue Motor with encoder https://www.sparkfun.com/products/16413
   
   1 x Blue Motor Driver Dual TB6612FNG https://www.sparkfun.com/products/14450
@@ -20,4 +14,4 @@
   
   1 x Line Tracker Screws 2-56 1/4" https://www.pololu.com/product/1955
 
-  1 x line sensor array (6 x 8mm): https://www.pololu.com/product/4246
+
