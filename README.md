@@ -2,7 +2,7 @@
 
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
   
-  1 x wires
+  1 x Wire Kit https://www.pololu.com/category/29/jumper-wire-kits
   
   1 x Blue Motor with encoder https://www.sparkfun.com/products/16413
   
