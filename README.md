@@ -1,4 +1,4 @@
-# 2022 C/D Term Blue Motor kit for 2001/2002
+# 2022 A/B Term Blue Motor kit for 2001/2002
 
   1 x Breadboard https://www.pololu.com/product/4000 (specifically this one, as it has mounting holes)
   
