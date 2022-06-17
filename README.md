@@ -4,4 +4,4 @@
   
   1 x Blue Motor Driver Dual TB6612FNG https://www.sparkfun.com/products/14450
   
-  1 x ultrasonic https://www.sparkfun.com/products/15569  
+  1 x Ultrasonic Rangefinder https://www.sparkfun.com/products/15569  
